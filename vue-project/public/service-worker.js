@@ -1,7 +1,7 @@
 var cacheName = "classes-v1";
 var cacheFiles = [
     "index.html",
-    // "subjects.js",
+    // "subjects.j",
     "images/arts.png",
     "images/english.png",
     "images/history.png",
