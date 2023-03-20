@@ -1,0 +1,103 @@
+p {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+
+button {
+    text-align: center;
+    background-color: #008CBA;
+    color: white;
+    padding: 6px;
+    font-size: 15px;
+    border: none;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.class_windows {
+    display: inline-block;
+    margin: 39px;
+}
+
+.welcome_page h1 {
+    font-weight: normal;
+    font-size: 25px;
+    text-align: center;
+}
+
+#app {
+    padding: 10px;
+    align-items: center;
+}
+
+#sort_panel {
+    margin-left: 45px;
+}
+
+#sort_panel p {
+    font-size: 15px;
+}
+
+#panel_layout {
+    border-radius: 25px;
+    border: 1px solid #008CBA;
+    padding: 10px;
+    width: 250px;
+    height: 145px;
+}
+
+#text_layout {
+    padding: 5% 5%;
+}
+
+#img {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+#disabled_button {
+    background-color: #A9A9A9;
+    color: #E0E0E0;
+}
+
+#checkout_form {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#checkout_form input {
+    font-size: 17px;
+    margin: 0 5px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #008CBA;
+}
+
+#checkout_form span {
+    font-weight: bold;
+    color: #008CBA;
+}
+
+#button_align {
+    padding-top: 10px;
+    text-align: center;
+    display: block;
+}
+
+#search_wrap {
+    float: right;
+    margin-right: 45px;
+}
+
+#search_wrap input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #008CBA;
+}
